@@ -1,98 +1,71 @@
-<h1 align="center">Hi 👋, I'm Taysir Kadri</h1>
-<h3 align="center">AI Engineering Student | Web Developer | Simulation Builder</h3>
+  <p align="center">
+    <a href="https://gh-most-followed.pages.dev/egypt">
+      <img src="https://img.shields.io/badge/14ᵗʰ Most Followed User 🇪🇬-282830?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://committers.top/egypt">
+      <img src="https://img.shields.io/badge/6ᵗʰ Most Active User 🇪🇬-282830?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
+  </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=AI+Engineering+Student;Optics+Simulation+Developer;Research+Driven+Builder;Turning+Ideas+Into+Systems" />
-</p>
+<h1 align="center">Hi, I'm Ahmed Hemeda</h1>
+<h2 align="center">Software Engineer | .NET Developer | Full Stack</h2>
 
----
+<div align="center">
+  <a href="https://www.google.com.eg/search?q="> <!-- Google Me -->
+    
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&color=30F050&center=true&vCenter=true&width=500&height=70&pause=2000&duration=2000&lines=Check+my+popular+repositories;+Visit+my+Social+Accounts)
+</div>
 
-## 🚀 About Me
+  <p align="center">
+    <a href="https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view">
+      <img src="https://img.shields.io/badge/My CV-007520?style=flat&logo=googledrive&logoColor=white" style="height:35px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://a-hemeda.github.io/Portfolio">
+      <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat&logo=googlechrome&logoColor=white" style="height:35px; object-fit:contain;"/></a>
+  </p>
+  
+  <p>
+    <a href="https://www.google.com.eg/search?q=A-Hemeda"> <!-- Google Me -->
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3010A0" style="height:25px; object-fit:contain;"/></a>
+  </p>
 
-I'm an **AI Engineering student from Algeria 🇩🇿** who loves building **interactive systems, simulations, and research-driven web apps**.
+  ### 📤 Connect & Competitive Programming
+  <p align="left">
+    <a href="mailto:7hemeda@gmail.com">
+      <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
+    <a href="https://linkedin.com/in/a-hemeda">
+      <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
+    <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
+      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50"/></a>
+    <a href="https://x.com/11Hemeda">
+      <img src="https://images.seeklogo.com/logo-png/49/2/twitter-x-logo-png_seeklogo-492396.png" height="50"/></a> &nbsp;
+    <a href="https://youtube.com/@A-Hemeda">
+      <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="50"/></a> &nbsp;
+    <a href="https://stackoverflow.com/users/28317461/ahmed-hemeda">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" height="50"/></a> &nbsp;
+    <a href="https://leetcode.com/u/11Hemeda">
+      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="50"/></a> &nbsp;
+    <a href="https://codeforces.com/profile/11Hemeda">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="50"/></a>
+  </p>
 
-I work at the intersection of:
+### 🛠️ Top Technical Skills & Tools
 
-- 🤖 Artificial Intelligence  
-- 🌐 Web Development  
-- 🔬 Scientific Simulation (Optics, Math, Physics)  
-- 🧠 Research & Analysis Tools  
+  <p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,docker,sqlserver,dapper,redis,html,css,js,postman,swagger,git&perline=7" style="height:113px;"/>
+  </p>
+  
+  <br>
+  
+  <p align="left">
+    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="135"/>
+  </p>
+  
+  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
+  
+  <br>
 
-I enjoy transforming complex ideas into **clear, visual, and useful applications** for students, teachers, and developers.
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A-Hemeda&theme=github_dark" height="176"/> &nbsp;
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A-Hemeda&theme=github_dark" height="176"/>
+  </p>
 
----
-
-## 🧠 What I’m Working On
-
-- 🔭 AI-powered educational tools  
-- 🧪 Virtual optics & ray tracing labs  
-- 📐 Mathematical analysis web apps  
-- 💻 Full-stack research platforms  
-- 🎯 Freelance-ready web systems  
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3)
-
-### Frameworks & Tools
-![Flask](https://img.shields.io/badge/Flask-333?style=for-the-badge&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=node.js)
-![Paper.js](https://img.shields.io/badge/Paper.js-333?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git)
-
-### Domains
-- AI Systems  
-- Simulation Engineering  
-- Scientific Visualization  
-- Educational Platforms  
-
----
-
-## 🧪 Featured Projects
-
-🚀 **Ray Optics Virtual Lab**  
-Interactive simulation of lenses, mirrors, rays & projection systems.
-
-📐 **Math Analysis Web Platform**  
-Limits, continuity, derivatives, integrals with visual tools.
-
-🤖 **AI Mental Health Assistant (R&D)**  
-AI chatbot focused on mental health guidance and support.
-
-🔐 **Real-Time Password Strength Analyzer**  
-Security visualization & attacker simulation.
-
-*(More coming…)*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%" />
-</p>
-
----
-
-## 🌍 Connect With Me
-
-- 💼 GitHub: https://github.com/taysirkadri  
-- 🌐 Portfolio: Coming Soon
-- 📫 Email : kadritaissir@gmail.com
-- 📫 Acaademic Email: at.kadri@ensta.edu.dz
----
-
-## ⚡ Fun Quote
-
-> *"Turning light, code, and ideas into interactive systems."*
-
----
-
-⭐ If you like what I build, feel free to follow — let's grow together.
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-Hemeda&theme=github_dark)
+![Snake Animation](https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/github-contribution-grid-snake-dark.svg)
